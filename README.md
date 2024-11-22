@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hii 👋, I'm Taufik from Indonesia
+  Hii, I'm Taufik from Indonesia
 </h1>
 
 ###
