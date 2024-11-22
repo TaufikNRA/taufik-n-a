@@ -14,7 +14,7 @@
 
 ### Join:
 <p align="center">
-<a href="https://t.me/Taufik_N_A"><img src="https://img.shields.io/badge/Telegram--Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/Taufik_N_A"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <br>
 <a href="https://www.youtube.com/@taufiknurohmanafiko5377"><img src="https://img.shields.io/badge/Youtube--Channel-e02c2c?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
