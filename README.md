@@ -10,7 +10,7 @@
 
 ###
 
-<p align='center'><img src="https://komarev.com/ghpvc/?username=Taufik-N-A&label=Total%20Profile%20Visitor&color=blue&style=for-the-badge" alt="Taufik01" />
+<p align='center'><img src="https://komarev.com/ghpvc/?username=Taufik-N-A&label=Total%20Profile%20Visitor&color=blue&style=for-the-badge" alt="Taufik01"><p/>
 
 ### Join:
 <p align="center">
