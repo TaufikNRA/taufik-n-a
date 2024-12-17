@@ -21,7 +21,7 @@
 <a href="https://t.me/Taufik_N_A"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://fb.me/taufiknurohman.afiko"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <br>
-<a href="https://www.youtube.com/@taufiknurohmanafiko5377"><img src="https://img.shields.io/badge/Youtube--Channel-e02c2c?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://www.youtube.com/@taufik.n.a"><img src="https://img.shields.io/badge/Youtube--Channel-e02c2c?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
 </div>
