@@ -18,10 +18,10 @@
 
 ### My:
 <p align="center">
-<a href="https://t.me/Taufik_N_A"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="https://fb.me/taufiknurohman.afiko"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://wa.me/6288806938573"><img alt="Static Badge" src="https://img.shields.io/badge/WhatsApp-black?style=for-the-badge&logo=WhatsApp&logoColor=34eb6e"></a>
+<a href="https://instagram.com/fycko_5141"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram&logoColor=orange"></a>
 <br>
-<a href="https://www.youtube.com/@taufik.n.a"><img src="https://img.shields.io/badge/Youtube--Channel-e02c2c?style=for-the-badge&logo=youtube&logoColor=white"></a>
-</p>
+<a href="https://facebook.com/taufiknurohman.afiko"><img alt="Static Badge" src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=Facebook&logoColor=blue"></a>
+<a href="https://t.me/Taufik_N_A"><img alt="Static Badge" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram&logoColor=2CA5E0"></a>
 
 </div>
